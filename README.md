@@ -17,7 +17,7 @@
 
 `npm install`
 
-## Start deb server
+## Start dev server
 
 `npm run dev`
 

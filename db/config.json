@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "yoana",
+    "password": "fI9Qd#@@Y6fe",
+    "database": "addressbook",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "production": {
+    "username": "yoana",
+    "password": "fI9Qd#@@Y6fe",
+    "database": "addressbook",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  }
+}

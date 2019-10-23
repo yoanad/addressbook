@@ -1,5 +1,5 @@
 # Address book
-This is a React app that models an address book.
+This is a ReactJS, NodeJS, Express and Sequelize app that models an address book.
 The address book lists organisations and people. It allows the user to see the names and contact details of
 people in organisations, and to manage the people who are in an organisation. It stores a name and contact details for
 each organisation. It allows organisations and people to be created, edited and deleted.

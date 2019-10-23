@@ -3,7 +3,7 @@
 ## Set up db
     sudo -u postgres -i
     psql
-    CREATE ROLE yoana WITH LOGIN PASSWORD 'fI9Qd#@@Y6fe';
+    CREATE ROLE yoana WITH LOGIN PASSWORD 'fI9Qd#@@Y6fe'; # - change password! this is a randomly generated one
     ALTER ROLE yoana CREATEDB;
     \q
     exit
